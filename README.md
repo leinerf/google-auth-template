@@ -1,2 +1,1 @@
-# Swipes
 # google-auth-template
